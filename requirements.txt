@@ -1,0 +1,20 @@
+# Data Science & ML Base
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+networkx
+
+# Utilities
+tqdm
+pyyaml
+requests
+
+# Jupyter Support
+ipykernel
+ipywidgets
+
+# Specific Simulation Version
+mesa==1.0.0
